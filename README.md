@@ -75,26 +75,6 @@ TCP 8443 (maps to service port 443)
 
 ---
 
-## Milestone Checklist
-Progress through the assignment is tracked via the following milestones (✅ = completed, ⬜ = pending):
-
-- [✅] **M1** – Clone project, set up local dev environment, verify app runs (25/8/2025)  
-- [✅] **M2** – Create Dockerfiles for frontend & backend (30/8/2025)  
-- [✅] **M3** – Configure MongoDB & Mongo Express containers (2/9/2025)  
-- [✅] **M4** – Write `docker-compose.yml` for 4-container setup (5/9/2025)  
-- [✅] **M5** – Add Nginx reverse proxy with HTTPS (8/9/2025)  
-- [✅] **M6** – Test docker-compose integration (logs, data add/update) (10/9/2025)  
-- [✅] **M7** – Create Kubernetes manifests (Deployment, Service, Ingress) (4/9/2025)  
-- [✅] **M8** – Deploy on Minikube, verify HTTPS & service connectivity (4/9/2025)  
-- [✅] **M9** – Perform OWASP ZAP automated scan (25/9/2025)  
-- [✅] **M10** – Perform manual security testing (28/9/2025)  
-- [✅] **M11** – Analyse 4 vulnerabilities (different CWE codes) (3/10/2025)  
-- [✅] **M12** – Implement fixes & document remediation steps (6/10/2025)  
-- [✅] **M13** – Write Task 2 & 3 reports (PDF) (8/10/2025)  
-- [✅] **M14** – Record 5-min individual video statements (9/10/2025)  
-
----
-
 ## Running Using Docker
 
 ### 1. Clone the project
