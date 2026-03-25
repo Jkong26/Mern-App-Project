@@ -86,12 +86,12 @@ Progress through the assignment is tracked via the following milestones (✅ = c
 - [✅] **M6** – Test docker-compose integration (logs, data add/update) (10/9/2025)  
 - [✅] **M7** – Create Kubernetes manifests (Deployment, Service, Ingress) (4/9/2025)  
 - [✅] **M8** – Deploy on Minikube, verify HTTPS & service connectivity (4/9/2025)  
-- [⬜] **M9** – Perform OWASP ZAP automated scan (25/9/2025)  
-- [⬜] **M10** – Perform manual security testing (28/9/2025)  
-- [⬜] **M11** – Analyse 4 vulnerabilities (different CWE codes) (3/10/2025)  
-- [⬜] **M12** – Implement fixes & document remediation steps (6/10/2025)  
-- [⬜] **M13** – Write Task 2 & 3 reports (PDF) (8/10/2025)  
-- [⬜] **M14** – Record 5-min individual video statements (9/10/2025)  
+- [✅] **M9** – Perform OWASP ZAP automated scan (25/9/2025)  
+- [✅] **M10** – Perform manual security testing (28/9/2025)  
+- [✅] **M11** – Analyse 4 vulnerabilities (different CWE codes) (3/10/2025)  
+- [✅] **M12** – Implement fixes & document remediation steps (6/10/2025)  
+- [✅] **M13** – Write Task 2 & 3 reports (PDF) (8/10/2025)  
+- [✅] **M14** – Record 5-min individual video statements (9/10/2025)  
 
 ---
 
