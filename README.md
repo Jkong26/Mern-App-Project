@@ -1,6 +1,6 @@
 # Secure Development Operations Group Assignment – MERN App Due 9/10/2025
 
-A full-stack [MERN](https://www.mongodb.com/mern-stack) application, originally designed to manage employee information, now adapted for the **2808ICT Secure Development Operations** assignment.  
+A full-stack [MERN](https://www.mongodb.com/mern-stack) application, originally designed to manage employee information, now adapted for the **2808ICT Secure Development Operations** assignment.
 This repository demonstrates containerisation, DevOps security practices, and deployment on cloud infrastructure.
 
 ---
